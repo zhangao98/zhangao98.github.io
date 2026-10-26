@@ -22,7 +22,7 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
 <div class="pub-item">
   <div class="pub-title">Co-Optimizing Reconfigurable Environments and Policies for Decentralized Multi-Agent Navigation</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Guang Yang, and Amanda Prorok</div>
-  <div class="pub-venue"><strong><em>IEEE Transactions on Robotics (TRO)</em></strong>, 2025 - <strong><em>Media Promotion by T-RO</em></strong></div>
+  <div class="pub-venue"><strong><em>IEEE Transactions on Robotics (T-RO)</em></strong>, 2025 - <strong><em>Media Promotion by T-RO</em></strong></div>
 </div>
 
 <br>
