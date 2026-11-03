@@ -98,3 +98,11 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Alec Koppel, and Alejandro Ribeiro</div>
   <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2022</div>
 </div>
+
+<p>
+  <em>
+    For the full publication list, see
+    <a href="https://zhangao98.github.io/publications/" target="_blank">
+    </a>.
+  </em>
+</p>
