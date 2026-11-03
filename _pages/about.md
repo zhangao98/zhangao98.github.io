@@ -101,5 +101,5 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
 
 <br>
 
-For more publications, please see the [publication page](https://zhangao98.github.io/publications/).
+For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).
 
