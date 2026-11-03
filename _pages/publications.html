@@ -1,36 +1,95 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>Publications by year in reversed chronological order.</p>
 
-{% include base_path %}
+<input
+  type="text"
+  id="pubSearch"
+  placeholder="Type to filter"
+  onkeyup="filterPublications()"
+  style="padding: 12px; width: 350px; max-width: 100%; margin: 20px 0;"
+>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>
+  <em>
+    For the full publication list, see my
+    <a href="https://scholar.google.com/citations?user=4BTN9dIAAAAJ&hl=en" target="_blank">
+      Google Scholar profile
+    </a>.
+  </em>
+</p>
 
+<div id="publication-list">
+
+  <section class="pub-year">
+    <h2>2026</h2>
+
+    <div class="pub-item">
+      <strong>Paper Title One</strong><br>
+      Author A, Author B, <u>Your Name</u><br>
+      <em>IEEE International Conference on Robotics and Automation</em>, 2026
+    </div>
+
+  </section>
+
+  <section class="pub-year">
+    <h2>2025</h2>
+
+    <div class="pub-item">
+      <strong>Paper Title Two</strong><br>
+      Author A, <u>Your Name</u>, Author C<br>
+      <em>IEEE Transactions on Robotics</em>, 2025
+    </div>
+
+    <div class="pub-item">
+      <strong>Paper Title Three</strong><br>
+      <u>Your Name</u>, Author B<br>
+      <em>Medical Image Analysis</em>, 2025
+    </div>
+
+  </section>
+
+</div>
+
+<style>
+.pub-year {
+  border-top: 1px solid #ddd;
+  margin-top: 35px;
+}
+
+.pub-year h2 {
+  text-align: right;
+  color: #0072ce;
+  margin: 20px 0;
+}
+
+.pub-item {
+  margin: 20px 0;
+  line-height: 1.7;
+}
+</style>
+
+<script>
+function filterPublications() {
+  const query = document.getElementById("pubSearch").value.toLowerCase();
+
+  document.querySelectorAll(".pub-year").forEach(year => {
+    let visible = false;
+
+    year.querySelectorAll(".pub-item").forEach(item => {
+      const matches = item.textContent.toLowerCase().includes(query);
+      item.style.display = matches ? "" : "none";
+      if (matches) visible = true;
+    });
+
+    year.style.display = visible ? "" : "none";
+  });
+}
+</script>
 
 
