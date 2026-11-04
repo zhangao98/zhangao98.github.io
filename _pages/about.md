@@ -110,19 +110,15 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
 
 <span class="pub-title">For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).</span>
 
+<style>
+.pub-title {
+  font-weight: 500;
+  font-size: 17px;
+  color: #000;
+}
 
-
-
-
-  </section>
-
-  <section class="pub-year">
-    <h2>2017</h2>
-
-    <div class="pub-item">
-      <span class="pub-title">Beam Spread and Wander of Gaussian Beam through Anisotropic Non-Kolmogorov Atmospheric Turbulence for Optical Wireless Communication</span><br>
-      <strong><u>Zhan Gao</u></strong>, Jiankun Zhang, and Anhong Dang<br>
-      <em>IEEE International Conference on Communications (ICC) workshop</em>, 2017
-    </div>
-
-  </section>
+.pub-item {
+  margin: 20px 0;
+  line-height: 1.7;
+}
+</style>
