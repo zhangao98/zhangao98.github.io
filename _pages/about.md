@@ -20,9 +20,10 @@ I am always looking for strong candidates to join the lab as **PostDoc / PhD / R
 If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with me, please feel free to drop me an email.
 
 <span style="color: #2F5FD0;">Selected Publications</span>
+======
 
 For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).
-======
+
 <div class="pub-item">
   <div class="pub-title">Co-Optimizing Reconfigurable Environments and Policies for Decentralized Multi-Agent Navigation</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Guang Yang, and Amanda Prorok</div>
