@@ -17,8 +17,6 @@ His research has been published in leading journals and conferences, such as IEE
 ======
 I am always looking for strong candidates to join the lab as **PostDoc / PhD / RA / Interns / Visiting Students**. We welcome applicants interested in automatic control, robot learning, foundation models, multimodal sensing, and multi-robot communications. Students who have hands-on experience working with real robots or are familar with data communication mechanisms on real hardware are preferred. 
 
-If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with me, please feel free to drop me an email.
-
 <span style="color: #2F5FD0;">Selected Publications</span>
 ======
 
