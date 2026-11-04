@@ -22,7 +22,11 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
 <span style="color: #2F5FD0;">Selected Publications</span>
 ======
 
-For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).
+<br>
+
+<span class="pub-title">For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).</span>
+
+<br>
 
 <div class="pub-item">
   <div class="pub-title">Co-Optimizing Reconfigurable Environments and Policies for Decentralized Multi-Agent Navigation</div>
@@ -104,5 +108,21 @@ For the full publication list, please see the [publication page](https://zhangao
 
 <br>
 
-For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).
+<span class="pub-title">For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).</span>
 
+
+
+
+
+  </section>
+
+  <section class="pub-year">
+    <h2>2017</h2>
+
+    <div class="pub-item">
+      <span class="pub-title">Beam Spread and Wander of Gaussian Beam through Anisotropic Non-Kolmogorov Atmospheric Turbulence for Optical Wireless Communication</span><br>
+      <strong><u>Zhan Gao</u></strong>, Jiankun Zhang, and Anhong Dang<br>
+      <em>IEEE International Conference on Communications (ICC) workshop</em>, 2017
+    </div>
+
+  </section>
