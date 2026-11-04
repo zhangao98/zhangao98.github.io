@@ -22,11 +22,7 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
 <span style="color: #2F5FD0;">Selected Publications</span>
 ======
 
-<br>
-
 For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).
-
-<br>
 
 <div class="pub-item">
   <div class="pub-title">Co-Optimizing Reconfigurable Environments and Policies for Decentralized Multi-Agent Navigation</div>
