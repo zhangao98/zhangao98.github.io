@@ -24,7 +24,7 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
 
 <br>
 
-<span class="pub-title">For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).</span>
+For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).
 
 <br>
 
@@ -108,17 +108,5 @@ If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with 
 
 <br>
 
-<span class="pub-title">For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).</span>
+For the full publication list, please see the [publication page](https://zhangao98.github.io/publications/).
 
-<style>
-.pub-title {
-  font-weight: 500;
-  font-size: 17px;
-  color: #000;
-}
-
-.pub-item {
-  margin: 20px 0;
-  line-height: 1.7;
-}
-</style>
